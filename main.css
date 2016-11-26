@@ -2,8 +2,12 @@ header h1 {
 color: gray;
 }
 
+header nav {
+  justify-content: flex-end;
+}
+
 header .row {
-  color: gray;
+  color: red;
   align-items: center;
   display: flex;
 }
