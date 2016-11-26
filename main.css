@@ -1,7 +1,9 @@
 header h1 {
-color: red;
+color: dark gray;
 }
 
 header .row {
+  color: light gray;
   align-items: center;
+  display: flex;
 }
