@@ -8,4 +8,5 @@ color: red;
 
 header .row {
 display: flex;
+  align-items: center;
 }
