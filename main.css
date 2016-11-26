@@ -24,5 +24,6 @@ header .row {
 }
 
 p {
- margin-left: 20px;
+text-indent: 20px;
+    padding: 10px;
 }
