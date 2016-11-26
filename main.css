@@ -1,7 +1,11 @@
+p {
+  color: red;
+}
+
 h1 {
 color: red;
 }
 
 header .row {
-wrap: flex;
+display: flex;
 }
