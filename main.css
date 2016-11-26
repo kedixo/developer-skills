@@ -1,4 +1,5 @@
 header h1 {
+  align-items: left;
 color: red;
 }
 
@@ -11,7 +12,6 @@ header nav {
 }
 
 header .row {
-  align-items: center;
   display: flex;
 }
 
