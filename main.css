@@ -11,3 +11,7 @@ header .row {
 .container {
   color: #d5dbdb;
 }
+
+p {
+  padding: 20px;
+}
