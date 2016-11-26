@@ -1,12 +1,7 @@
-p {
-  color: red;
-}
-
-h1 {
+header h1 {
 color: red;
 }
 
 header .row {
-display: flex;
   align-items: center;
 }
