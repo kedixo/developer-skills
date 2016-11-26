@@ -1,5 +1,5 @@
 header h1 {
-color: gray;
+color: red;
 }
 
 header nav {
@@ -7,7 +7,6 @@ header nav {
 }
 
 header .row {
-  color: red;
   align-items: center;
   display: flex;
 }
