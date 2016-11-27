@@ -31,14 +31,13 @@ thumbnail {
 }
 
 .thumbnail img {
-    display: block;
     width: 100%;
     height: auto;
 }
 
 .gallery {
 margin: 5%;
-display: block
+display: inline
 }
 
 h2 {
