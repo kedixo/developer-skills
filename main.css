@@ -36,6 +36,10 @@ header .row {
     color: #d5dbdb;
 }
 
+.gallery img {
+    padding: 15px;
+}
+
 p {
     padding: 10px;
 }
