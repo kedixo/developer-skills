@@ -11,7 +11,7 @@ header h1 {
 }
 
 header a {
-  padding: 20px
+  padding: 20px;
 }
 
 header nav {
@@ -20,14 +20,12 @@ header nav {
 
 header .row {
   display: flex;
-  align-items: center
+  align-items: center;
 }
 
 .gallery {
    margin: 5%;
     justify-content: space-between;
-    position: relative;
-    top: -30px;
 }
 
 h2 {
