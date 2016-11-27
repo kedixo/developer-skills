@@ -37,7 +37,7 @@ thumbnail {
 
 .gallery {
 margin: 5%;
-display: inline;
+display: flex;
 }
 
 h2 {
