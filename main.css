@@ -23,8 +23,8 @@ header .row {
   align-items: center
 }
 
-.container {
-  color: #d5dbdb;
+.gallery {
+   margin: 5%;
 }
 
 .gallery h2 {
