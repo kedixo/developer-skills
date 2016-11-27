@@ -33,11 +33,12 @@ thumbnail {
 .thumbnail img {
     width: 100%;
     height: auto;
+    display: inline;
 }
 
 .gallery {
 margin: 5%;
-display: inline
+display: inline;
 }
 
 h2 {
