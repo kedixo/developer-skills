@@ -25,12 +25,10 @@ header .row {
 
 .gallery {
    margin: 5%;
-    display: flex;
     justify-content: space-between;
 }
 
-.gallery h2 {
-    text-align: center;
+h2 {
     color: #d5dbdb;
 }
 
