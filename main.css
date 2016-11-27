@@ -30,6 +30,12 @@ thumbnail {
     border: 1px solid #999;
 }
 
+.thumbnail img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
 .gallery {
 margin: 5%;
  justify-content: space-between;
