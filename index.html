@@ -22,9 +22,15 @@
   <p>This weekend I learned how to create the<b> <a href="https://github.com/kedixo/developer-skills">repo</a> </b>associated with this site  on github.</p>
     <p>Then I <b>cloned</b> that repo's contents to my local machine, made code changes, and <b>committed and pushed</b> those changes back to github.</p>
     <p>On the header navigation, above, I'm using predefined <b>Bootstrap</b> classes — <b>try resizing your browser width, and you'll see that using Bootstrap has allowed me to create a size-responsive page.</b></p> 
- <p>I'm also learning to use js to create interactive web pages. For example, click the button below to change the headline color, above.</p>
+ <p>I'm also learning to use js to create interactive web pages. For example, click the buttons below to change the image.</p>
     <script>
-    <button onclick="document.getElementById('bigHead').style.color = "blue"">Change</button>
+
+<img id="myImage" src="https://static.greatbigcanvas.com/images/square/corbis/sleeping-labrador-puppy,2231863.jpg?max=128" style="width:182px">
+<br>
+<button onclick="document.getElementById('myImage').src='http://66.media.tumblr.com/avatar_73b205583f81_128.png'">Wake the dog</button>
+
+
+<button onclick="document.getElementById('myImage').src='https://static.greatbigcanvas.com/images/square/corbis/sleeping-labrador-puppy,2231863.jpg?max=128'">Time to nap</button>
   </script>
   </div>
     </body>
