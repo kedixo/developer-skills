@@ -25,16 +25,15 @@ header .row {
 
 .gallery {
    margin: 5%;
-    background-color: #d5dbdb
 }
 
 .gallery h2 {
     text-align: center;
-    color: #2E2E2E;
+    color: #d5dbdb;
 }
 
 .gallery h5 {
-    color: #2E2E2E;
+    color: #d5dbdb;
 }
 
 p {
