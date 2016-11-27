@@ -29,6 +29,8 @@ header .row {
 }
 
 h2 {
+    position: relative;
+    top: -20px;
     color: #d5dbdb;
 }
 
