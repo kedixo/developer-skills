@@ -24,10 +24,7 @@ header .row {
 }
 
 .gallery {
-  display: flex;
-  flex-wrap: wrap;
-  margin-top: 20px;
-  justify-content: center;
+margin: 5%;
 }
 
 h2 {
