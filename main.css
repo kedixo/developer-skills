@@ -14,10 +14,6 @@ header a {
   padding: 20px
 }
 
-header nav {
-  justify-content: space-between;
-}
-
 header .row {
   display: flex;
   align-items: center
