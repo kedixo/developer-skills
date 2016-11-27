@@ -27,8 +27,9 @@ header .row {
   color: #d5dbdb;
 }
 
-.container img {
-     border: 2px solid #2E2E2E; margin: 10px;
+.container h5 {
+    text-align: center;
+}
 
 p {
     padding: 10px;
