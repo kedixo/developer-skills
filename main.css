@@ -18,7 +18,7 @@ header nav {
   justify-content: flex-end;
 }
 
-header nav .button {
+nav .button {
     color: red;
 }
 
