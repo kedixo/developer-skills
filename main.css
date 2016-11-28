@@ -10,21 +10,22 @@ header h1 {
     color: #2E2E2E;
 }
 
-header a {
-  padding: 20px;
+nav {
+  background-color: #FFF;
 }
 
-header nav {
-  justify-content: flex-end;
+nav li {
+  display: inline;
+  margin: 0;
+  padding: 0 10px;
 }
 
-heaer nav .btn btn-primary dropdown-toggle {
-    color: red;
+nav ul {
+  display: inline;
 }
 
-header .row {
-  display: flex;
-  align-items: center;
+.contact-btn {
+  float: right;
 }
 
 .gallery {
