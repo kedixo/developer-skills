@@ -18,6 +18,10 @@ header nav {
   justify-content: flex-end;
 }
 
+header nav .button {
+    color: red;
+}
+
 header .row {
   display: flex;
   align-items: center;
