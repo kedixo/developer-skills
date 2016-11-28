@@ -18,7 +18,7 @@ header nav {
   justify-content: flex-end;
 }
 
-nav .button {
+heaer nav .btn btn-primary dropdown-toggle {
     color: red;
 }
 
