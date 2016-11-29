@@ -1,6 +1,6 @@
 header {
     background-color: #E6E6E6;
-    display: flex;
+    display: inline-block;
 }
 
 header ul {
