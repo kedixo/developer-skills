@@ -3,7 +3,7 @@ header {
 }
 
 .container {
-    display: inline-block;
+    text-align: center;
 }
 
 header ul {
@@ -21,9 +21,7 @@ header a {
     padding: 8px;
     background-color: #dddddd;
 }
-    display: inline;
-    padding: 10px;
-}
+
 
 header h1 {
     color: #2E2E2E;
