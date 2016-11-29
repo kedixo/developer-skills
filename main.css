@@ -12,7 +12,7 @@ header h1 {
 }
 
 nav li {
-  display: inline;
+  display: block;
   margin: 0;
   padding: 0 10px;
 }
