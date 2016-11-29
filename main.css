@@ -3,13 +3,13 @@ header {
     display: flex;
 }
 
-ul {
+.container ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
 
-li {
+.container li {
     float: right;
 }
 
