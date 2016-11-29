@@ -3,17 +3,17 @@ header {
     display: flex;
 }
 
-ul {
+header ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
 
-li {
+header li {
     float: right;
 }
 
-a {
+header a {
     display: block;
     padding: 8px;
     background-color: #dddddd;
@@ -22,13 +22,15 @@ a {
     padding: 10px;
 }
 
+header h1 {
+    color: #2E2E2E;
+}
+
+
 .main {
     margin: 5%;
 }
 
-header h1 {
-    color: #2E2E2E;
-}
 
 
 .contact-btn {
