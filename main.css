@@ -26,6 +26,9 @@ header a {
     background-color: #dddddd;
 }
 
+.mainHead {
+    color: blue;
+}
 
 .main {
     margin: 5%;
