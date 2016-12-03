@@ -26,9 +26,6 @@ header a {
     background-color: #dddddd;
 }
 
-.mainHead {
-    color: blue;
-}
 
 .main {
     margin: 5%;
@@ -47,6 +44,7 @@ header a {
 
 h2 {
     color: #d5dbdb;
+    display: flex;
 }
 
 .gallery h5 {
