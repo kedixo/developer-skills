@@ -2,6 +2,10 @@ header {
     background-color: #E6E6E6;
 }
 
+.navbar-header {
+     text-align: center;
+}
+
 .container {
     text-align: center;
 }
