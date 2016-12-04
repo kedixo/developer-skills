@@ -1,5 +1,10 @@
-.navbar-brand {
-     margin-left: 2px !important;
+.navbar-brand
+{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    margin:0 auto;
 }
 
 ul li {
