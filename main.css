@@ -1,7 +1,4 @@
-}
-.navbar-toggle {
-    z-index:3;
-}
+
 
 .navbar-brand
 {
@@ -30,17 +27,14 @@ ul li {
   float: right;
 }
 
-.main h1 {
-    color: #4d4d4d;
-}
 
 h2 {
     color: #d5dbdb;
-    display: flex;
+    text-align: center
 }
 
 
 
 p {
-    line-height: 1.5;
+    line-height: 1;
 }
