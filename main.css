@@ -1,31 +1,11 @@
-header {
-    background-color: #E6E6E6;
-}
 
-.navbar-header {
-     text-align: center;
+ul li {
+    padding: 8px;
 }
 
 .container {
     text-align: center;
 }
-
-header ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-header li {
-    float: right;
-}
-
-header a {
-    display: block;
-    padding: 8px;
-    background-color: #dddddd;
-}
-
 
 .main {
     margin: 5%;
@@ -37,19 +17,12 @@ header a {
   float: right;
 }
 
-.gallery {
-   margin: 5%;
-    justify-content: space-between;
-}
 
 h2 {
     color: #d5dbdb;
     display: flex;
 }
 
-.gallery h5 {
-    color: #d5dbdb;
-}
 
 
 p {
