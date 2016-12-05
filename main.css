@@ -1,4 +1,9 @@
- #journalist {
+.dropdown-menu li {
+ margin-left: 8px;
+}
+ 
+
+#journalist {
   padding-top:50px;
 }
 
