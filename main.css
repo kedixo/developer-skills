@@ -1,19 +1,41 @@
- body 
-  }
-  #journalist {padding-top:50px;height:500px;}
-  #program {padding-top:50px;height:500px;}
-  #project {padding-top:50px;height:500px;}
-  #writer {padding-top:50px;height:500px;}
-  #developer {padding-top:50px;height:500px;}
-  #trainer {padding-top:50px;height:500px;}
+ #journalist {
+  padding-top:50px;
+  height:500px;
 }
 
-.main {
- padding-top: 100px;
+#program {
+ padding-top:50px;
+ height:500px;
 }
 
-.navbar-brand
-{
+#project {
+ padding-top:50px;
+ height:500px;
+}
+
+#writer {
+ padding-top:50px;
+ height:500px;
+}
+
+#developer {
+ padding-top:50px;
+ height:500px;
+}
+
+#trainer {
+ padding-top:50px;
+ height:500px;
+}
+
+#about {
+ padding-top:50px;
+ height:500px;
+}
+
+
+
+.navbar-brand {
     position: absolute;
     width: 100%;
     left: 0;
