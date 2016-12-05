@@ -1,10 +1,10 @@
  body {
       position: relative; 
   }
-  #journalist {padding-top:50px;height:500px;color: #fff; background-color: #d3d3d3;}
-  #program {padding-top:50px;height:500px;color: #fff; background-color: #d3d3d3;}
-  #project {padding-top:50px;height:500px;color: #fff; background-color: #d3d3d3;}
-  #trainer {padding-top:50px;height:500px;color: #fff; background-color: #d3d3d3;}
+  #journalist {padding-top:50px;height:500px;}
+  #program {padding-top:50px;height:500px;}
+  #project {padding-top:50px;height:500px;}
+  #trainer {padding-top:50px;height:500px;}
 }
 
 .navbar-brand
